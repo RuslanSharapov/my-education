@@ -1,6 +1,6 @@
-﻿double numberA = New Random.Next(1, 10);
-Console.Write(numberA);
-double numberB = New Random.Next(1, 10);
-Console.Write(numberB);
-Console.WriteLine(numberA / numberB);
-
+﻿int numberA = new Random().Next(1, 10);
+Console.WriteLine(numberA);
+int numberB = new Random().Next(1, 10);
+Console.WriteLine(numberB);
+int result = numberA + numberB;
+Console.WriteLine(result);
