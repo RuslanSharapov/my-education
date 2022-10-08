@@ -18,7 +18,7 @@ if (week == 4)
 }
 if (week == 5)
 {
-    Console.WriteLine("Friday"); // УРА !!!  БУХАЕМ !!!
+    Console.WriteLine("Friday");
 }
 if (week == 6)
 {
